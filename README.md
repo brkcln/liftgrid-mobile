@@ -30,4 +30,4 @@ In-app update notifications are driven by the version-check endpoint at
 ## Reporting issues
 
 Field issues: contact your tenant administrator.
-Mobile-specific bugs: [destek@getliftgrid.com](mailto:destek@getliftgrid.com).
+Mobile-specific bugs: [destek@getliftgrid.com](mailto:info@getliftgrid.com).
